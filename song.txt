@@ -1,3 +1,5 @@
 Hello, World!
 It's my house.
 He's beautiful.
+I live in city.
+So i live in countryside.
